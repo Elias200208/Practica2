@@ -1,0 +1,19 @@
+h1{
+   color:rgb(8, 40, 73);
+   font-style: italic;
+   font-size: 100px; 
+}
+body{
+
+    color: slategray;
+    background-color: lightslategray;
+    font-family: 'Times New Roman', Times, serif;
+
+    }
+p{
+    color:rgb(3, 73, 90);
+    font-size: 25px;
+    background-color: darkgrey;
+    font-family: 'Times New Roman', Times, serif;
+   border: 5px slategray solid;
+}
